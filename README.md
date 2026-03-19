@@ -57,6 +57,8 @@ To identify trends in user behavior and provide recommendations that can help Be
 - Users are more active on weekdays compared to weekends
 
 ---
+##  Dashboard :
+  https://github.com/khushisinghal08/Bellabeat-Data-Analysis-Project/blob/main/overview%20Dashboard
 
 ## 💡 Recommendations
 - Introduce reminders to reduce sedentary time
