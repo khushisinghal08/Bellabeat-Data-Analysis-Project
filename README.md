@@ -63,12 +63,6 @@ To identify trends in user behavior and provide recommendations that can help Be
 - Encourage users to achieve daily step goals
 - Promote sleep improvement through activity tracking
 - Target low-activity users with personalized campaigns
-
----
-
-## 📸 Dashboard Preview
-
-
 ---
 
 ## 🚀 How to Use
