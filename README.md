@@ -1,9 +1,7 @@
 # 📊 Bellabeat Fitness Data Analysis (Power BI Dashboard)
 
 ## 🔍 Project Overview
-This project is part of the Google Data Analytics Capstone. The goal is to analyze fitness tracker data and provide actionable insights for Bellabeat, a wellness company focused on smart devices for women.
-
-The analysis focuses on user activity, sleep patterns, and sedentary behavior to support data-driven business decisions.
+This project is part of the Google Data Analytics Capstone program. The objective was to analyze Bellabeat fitness tracker data and uncover insights related to user activity, sleep behavior, and wellness trends. The project focuses on transforming raw fitness data into meaningful business insights using data analysis and visualization techniques.
 
 ---
 
@@ -65,13 +63,7 @@ To identify trends in user behavior and provide recommendations that can help Be
 - Encourage users to achieve daily step goals
 - Promote sleep improvement through activity tracking
 - Target low-activity users with personalized campaigns
----
-
-## 🚀 How to Use
-1. Download the Power BI file (.pbix)
-2. Open in Power BI Desktop
-3. Explore different pages and filters
-
+- 
 ---
 
 ## 📌 Conclusion
